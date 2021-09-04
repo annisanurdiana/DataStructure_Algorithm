@@ -1,0 +1,5 @@
+﻿  Intro to C++ - SKS.cpp
+C:\Users\Annisa Nurdiana\source\repos\Intro to C++ - SKS\Intro to C++ - SKS\Intro to C++ - SKS.cpp(34,33): warning C4305: 'initializing': truncation from '__int64' to 'long'
+C:\Users\Annisa Nurdiana\source\repos\Intro to C++ - SKS\Intro to C++ - SKS\Intro to C++ - SKS.cpp(34,18): warning C4309: 'initializing': truncation of constant value
+C:\Users\Annisa Nurdiana\source\repos\Intro to C++ - SKS\Intro to C++ - SKS\Intro to C++ - SKS.cpp(147,9): warning C4101: 'Array_': unreferenced local variable
+  Intro to C++ - SKS.vcxproj -> C:\Users\Annisa Nurdiana\source\repos\Intro to C++ - SKS\Debug\Intro to C++ - SKS.exe
