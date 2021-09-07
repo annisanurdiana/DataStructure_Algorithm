@@ -145,8 +145,6 @@ int main()
     // Array = Variable yang dapat menyimpan lebih dari satu angka
 
     int Array_[7]; 
-    /* Maks berarti isiannya hanya sampai 6 buah angka
-    Array dihitung dari 0 nol. */ 
 
     double studentGPA[7] = { 3.15, 3.67, 2.98, 3.88, 3.45, 3.27, 3.95};
 
