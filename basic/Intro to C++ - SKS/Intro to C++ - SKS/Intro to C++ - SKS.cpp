@@ -74,7 +74,7 @@ int main()
     }
 
     else if (Score >= 0 && Score <= 65) {
-        // Jika score memiliki nilai lebih dari 0 dan kurang dari atau sama dengan 65 maka mendapatkan predikat 'D'
+        // Jika score memiliki nilai lebih dari 0 atau sama dengan 0 dan kurang dari atau sama dengan 65 maka mendapatkan predikat 'D'
         cout << "Your score is " << Score << " = D" << endl;
     }
     else {
