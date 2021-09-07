@@ -34,7 +34,7 @@ int main()
     long Longg = 20000000000000L;
     /*
     long = Harus diakhiri dengan huruf 'L' 
-    jika tidak maka akan terkonversi ke integer (supaya lebih hemat memori
+    jika tidak maka akan terkonversi ke integer (supaya lebih hemat memori)
     */
     float Floatt = 0.9873F; 
     /*
@@ -78,7 +78,7 @@ int main()
         cout << "Your score is " << Score << " = D" << endl;
     }
     else {
-        // Jika score memenuhi syarat penilaian di atas maka dianggap "Tidak Valild"
+        // Jika score tidak memenuhi syarat penilaian di atas maka dianggap "Tidak Valild"
         cout << "Tidak Valid!" << endl;
     }
 
