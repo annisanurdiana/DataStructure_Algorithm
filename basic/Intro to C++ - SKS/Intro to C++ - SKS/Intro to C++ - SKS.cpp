@@ -103,7 +103,7 @@ int main()
 
 
     //
-    //----------------------> Perulangan Looping Starement <----------------------//
+    //----------------------> Perulangan Looping Statement <----------------------//
     //
 
     cout << "\n\n";
