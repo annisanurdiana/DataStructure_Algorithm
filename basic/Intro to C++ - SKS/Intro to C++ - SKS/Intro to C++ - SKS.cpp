@@ -58,7 +58,7 @@ int main()
 
     // Implementing Input Output in Control Statement
     cout << "\nPlease enter your score here: ";
-    cin >> Score; cout << "\n";
+    cin >> Score; cout << "\n"; // menyimpan score dalam bentun c-in or console input
 
     if (Score > 85) {
         // Jika score memiliki nilai lebih dari 85 maka mendapatkan predikat 'A'
@@ -163,3 +163,12 @@ int main()
     return 0;
 }
 
+
+/*
+
+How to speak ">>" and "<<" simbols...?
+>> = "Right shift"
+<< = "Left shift"
+# = "hash"
+
+*/
